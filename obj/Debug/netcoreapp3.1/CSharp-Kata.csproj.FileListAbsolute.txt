@@ -1,0 +1,12 @@
+/Users/codenationstudent/Desktop/csharp/CSharp-Kata/bin/Debug/netcoreapp3.1/CSharp-Kata.deps.json
+/Users/codenationstudent/Desktop/csharp/CSharp-Kata/bin/Debug/netcoreapp3.1/CSharp-Kata.runtimeconfig.json
+/Users/codenationstudent/Desktop/csharp/CSharp-Kata/bin/Debug/netcoreapp3.1/CSharp-Kata.runtimeconfig.dev.json
+/Users/codenationstudent/Desktop/csharp/CSharp-Kata/bin/Debug/netcoreapp3.1/CSharp-Kata.dll
+/Users/codenationstudent/Desktop/csharp/CSharp-Kata/bin/Debug/netcoreapp3.1/CSharp-Kata.pdb
+/Users/codenationstudent/Desktop/csharp/CSharp-Kata/obj/Debug/netcoreapp3.1/CSharp-Kata.csprojAssemblyReference.cache
+/Users/codenationstudent/Desktop/csharp/CSharp-Kata/obj/Debug/netcoreapp3.1/CSharp-Kata.AssemblyInfoInputs.cache
+/Users/codenationstudent/Desktop/csharp/CSharp-Kata/obj/Debug/netcoreapp3.1/CSharp-Kata.AssemblyInfo.cs
+/Users/codenationstudent/Desktop/csharp/CSharp-Kata/obj/Debug/netcoreapp3.1/CSharp-Kata.csproj.CoreCompileInputs.cache
+/Users/codenationstudent/Desktop/csharp/CSharp-Kata/obj/Debug/netcoreapp3.1/CSharp-Kata.dll
+/Users/codenationstudent/Desktop/csharp/CSharp-Kata/obj/Debug/netcoreapp3.1/CSharp-Kata.pdb
+/Users/codenationstudent/Desktop/csharp/CSharp-Kata/obj/Debug/netcoreapp3.1/CSharp-Kata.genruntimeconfig.cache
