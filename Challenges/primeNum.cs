@@ -17,6 +17,7 @@ namespace CSharp_Kata
             
                 else 
                 {
+                
                    Console.WriteLine($"is not a prime number");
                 }
             }
