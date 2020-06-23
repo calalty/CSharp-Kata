@@ -32,6 +32,28 @@ namespace CSharp_Kata
 
             Console.WriteLine("---------");
 
+            Prime primeNum = new Prime();
+            Console.Write("Please enter a number: ");
+            primeNum.num = Convert.ToInt32(Console.ReadLine());
+            primeNum.PrimeNum();
+
+            Console.WriteLine("---------");
+
+            Space stringSpace = new Space();
+            Console.Write("Please enter a string: ");
+            stringSpace.sentence = Console.ReadLine();
+            stringSpace.StringSpace();
+
+            Console.WriteLine("---------");
+
+            // HackerSpeak hackerSpeak = new HackerSpeak();
+            // hackerSpeak.HackerLang("hello");
+
+
+
+
+
+
 
         }
     }
